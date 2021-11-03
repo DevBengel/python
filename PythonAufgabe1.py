@@ -12,13 +12,13 @@ Tragen Sie bitte zunächst Ihre Teamnummer in Zeile 9 ein. Diese wird Ihnen von 
 team='1' # Tragen Sie in dieser Zeile bitte Ihre Teamnummer ein.
 '''
 # Eine einfache Ausgabe auf dem Terminal
-# Mission 1 - Setzen Sie die Variable a auf den Wert 'Ich bin im Kurs Dev4All und lerne Python' Lassen Sie diesen auf der Konsole ausgeben.
+# Mission 1 - Setzen Sie die Variable a auf den Wert 'Ich bin im Kurs DPPP und mache eine kurze Fingerübung in Python' Lassen Sie diesen auf der Konsole ausgeben.
 # Arbeiten Sie hierzu mit einem 'print()' Statement
 '''
 
 def mission1():
     
-    a='' #Diese Variable ist zu setzen
+    a='Ich bin im Kurs DPPP und mache eine kurze Fingerübung in Python' #Diese Variable ist zu setzen
     Ergebnis1=checkMission('Ich Bin ein Text',10,6)
     print ('############################################')
     print (Ergebnis1)
