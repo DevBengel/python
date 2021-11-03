@@ -18,7 +18,7 @@ team='1' # Tragen Sie in dieser Zeile bitte Ihre Teamnummer ein.
 
 def mission1():
     
-    a='Ich bin im Kurs DPPP und mache eine kurze Fingerübung in Python' #Diese Variable ist zu setzen
+    a='' #Diese Variable ist zu setzen
     Ergebnis1=checkMission('Ich Bin ein Text',10,6)
     print ('############################################')
     print (Ergebnis1)
